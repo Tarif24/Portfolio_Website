@@ -8,7 +8,33 @@
     <link rel="stylesheet" href="mediaqueries.css">
 </head>
 <body>
-    
+    <nav id = "desktop-nav">
+        <div class = "logo">Tarif Mohammad</div>
+        <div>
+            <ul class = "nav-links">
+                <li><a href = "#about">About</a></li>
+                <li><a href = "#experience">Experience</a></li>
+                <li><a href = "#projects">Projects</a></li>
+                <li><a href = "#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+    <nav id = "hamburger-nav">
+        <div class = "logo">Tarif Mohammad</div>
+        <div class = "hamburger-menu">
+            <div class = "hamburger-icon" onclick = "ToggleMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class = "menu-links">
+                <li><a href = "#about" onclick = "ToggleMenu()">About</a></li>
+                <li><a href = "#experience" onclick = "ToggleMenu()">Experience</a></li>
+                <li><a href = "#projects" onclick = "ToggleMenu()">Projects</a></li>
+                <li><a href = "#contact" onclick = "ToggleMenu()">Contact</a></li>
+            </div>
+        </div>
+    </nav>
     <script src="script.js"></script>
 </body>
 </html>

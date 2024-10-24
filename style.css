@@ -205,6 +205,11 @@ section
     margin: auto 0;
 }
 
+.profile-pic
+{
+    border-radius: 13rem;
+}
+
 .section__text
 {
     align-self: center;

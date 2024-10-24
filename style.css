@@ -139,6 +139,7 @@ a:hover
 .menu-links.open
 {
     max-height: 300px;
+    border: rgb(53, 53, 53) 0.1rem solid;
 }
 
 .hamburger-icon.open span:first-child
@@ -252,6 +253,16 @@ section
 {
     cursor: pointer;
     height: 2rem;
+}
+
+.icon.clickable:hover
+{
+    transform: scale(1.35, 1.35);
+}
+
+.icon.clickable
+{
+    transition: all 0.2s ease-in-out;
 }
 
 /* Buttons */
@@ -388,6 +399,8 @@ section
 {
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
     flex-direction: column;
 }
 

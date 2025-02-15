@@ -14,9 +14,9 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/Tarif24/Portfolio_Website">View Demo</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/Tarif24/Portfolio_Website/issues/new">Report Bug</a>
   </p>
 </div>
 
@@ -108,6 +108,8 @@ Tarif Mohammad - [@GitHub](https://github.com/Tarif24) - [@Linkedin](https://www
 
 Project Link: [https://github.com/Tarif24/Portfolio_Website](https://github.com/Tarif24/Portfolio_Website)
 
+Live Link: [Live Link][Live-Demo]
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -128,3 +130,4 @@ This is a list of recources that i found helpful and would like to give credit t
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: assets/readme-image.png
+[Live-Demo]: enterlink.com

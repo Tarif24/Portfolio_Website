@@ -14,7 +14,7 @@
     <br />
     <br />
     <br />
-    <a href="https://tarifmohammad.com">View Demo</a>
+    <a href="https://basicportfolio.tarifmohammad.com/">View Demo</a>
     &middot;
     <a href="https://github.com/Tarif24/Portfolio_Website/issues/new">Report Bug</a>
   </p>
@@ -102,7 +102,7 @@ Tarif Mohammad - [@GitHub](https://github.com/Tarif24) - [@Linkedin](https://www
 
 Project Link: [https://github.com/Tarif24/Portfolio_Website](https://github.com/Tarif24/Portfolio_Website)
 
-Live Link: [https://tarifmohammad.com][Live-Demo]
+Live Link: [https://basicportfolio.tarifmohammad.com/][Live-Demo]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,4 +122,4 @@ This is a list of recources that i found helpful and would like to give credit t
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [product-screenshot]: assets/readme-image.png
-[Live-Demo]: https://tarifmohammad.com
+[Live-Demo]: https://basicportfolio.tarifmohammad.com/

@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Tarif24/Portfolio_Website">
     <img src="assets/logo-inverted-1.png" alt="Logo" width="240" height="240">
   </a>
 
@@ -49,7 +49,7 @@
 
 [![Product Name Screen Shot][product-screenshot]][Live-Demo]
 
-This is my first project in web dev which has taught me so much. This project is very simple and is the simplist and most basic form of web dev. This is my portfolio project and it breaks down everything into 5 distinct sections profile, about, experience, projects and contact. In my opinion this is a very clean and simple first project and first portfolio and welcome anyone who would like to copy the repo go through it adn make it thier own.
+This is my first project in web dev which has taught me so much. This project is very simple and is the simplist and most basic form of web dev. This is my portfolio project and it breaks down everything into 5 distinct sections profile, about, experience, projects and contact. In my opinion this is a very clean and simple first project and first portfolio and welcome anyone who would like to copy the repo go through it and make it thier own.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,8 +70,6 @@ These are all of the tools used for this project
 This is only if you would like to replicate or make a project similar to this
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
 
 -   Install the code editor of choice (mine was VS CODE)
 
